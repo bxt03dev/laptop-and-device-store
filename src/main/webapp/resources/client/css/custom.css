@@ -1,0 +1,7 @@
+a {
+    color: #2F2F2F !important; /* Ghi đè màu */
+    text-decoration: none !important; /* Bỏ gạch chân (nếu cần) */
+}
+a:hover{
+    color: #ff5b00 !important;
+}
